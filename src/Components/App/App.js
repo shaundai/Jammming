@@ -8,7 +8,10 @@ class App extends React.Component {
   constructor(props){
     super(props);
     this.state = {
-      searchResults: [{name: 'Happy'}, {artist: 'Pharrell'}, {album: 'Pursuit of Happyness'}, {id: 5886}]
+      searchResults: [{name: 'Happy', artist: 'Pharrell', album: 'Pursuit of Happyness', id: 5886},
+      {name: 'PYT', artist: 'Michael Jackson', album: 'BAD', id: 5887},
+      {name: 'Tearin Up My Heart', artist: 'N Sync', album: 'N Sync', id: 5888},
+      {name: 'ABC', artist: 'Mother Goose', album: 'Adonis Songs', id: 5889}]
     }
   }
 
