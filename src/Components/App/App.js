@@ -12,7 +12,7 @@ class App extends React.Component {
       {name: 'PYT', artist: 'Michael Jackson', album: 'BAD', id: 5887},
       {name: 'Tearin Up My Heart', artist: 'N Sync', album: 'N Sync', id: 5888},
       {name: 'ABC', artist: 'Mother Goose', album: 'Adonis Songs', id: 5889}]
-    }
+    };
   }
 
   render(){
