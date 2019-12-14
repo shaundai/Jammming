@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '818b8b13fa6446e8a347ff143e9e3e88';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://exclusive-hook.surge.sh';
 
 const Spotify = {
     getAccessToken(){
