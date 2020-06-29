@@ -2,6 +2,9 @@
   "name": "jammming",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.16.x"
+  },
   "dependencies": {
     "@types/dotenv": "^8.2.0",
     "react": "^16.11.0",
